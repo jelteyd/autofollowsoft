@@ -1,0 +1,592 @@
+2026-02-25 05:51:36,024 - INFO - Запуск приложения
+2026-02-25 05:51:37,129 - INFO - Инициализация приложения
+2026-02-25 05:51:37,136 - INFO - Загрузка отработанных строк
+2026-02-25 05:55:30,386 - INFO - Приложение закрыто
+2026-02-25 05:55:35,009 - INFO - Запуск приложения
+2026-02-25 05:55:35,061 - INFO - Инициализация приложения
+2026-02-25 05:55:35,068 - INFO - Загрузка отработанных строк
+2026-02-25 05:55:43,499 - INFO - Экспорт прокси
+2026-02-25 05:55:43,500 - WARNING - Прокси не введен
+2026-02-25 05:55:54,215 - INFO - Экспорт прокси
+2026-02-25 05:55:54,217 - INFO - Прокси сохранены в proxies.txt
+2026-02-25 05:56:05,589 - INFO - Экспорт cookies (заглушка)
+2026-02-25 05:56:27,466 - INFO - Приложение закрыто
+2026-02-25 05:56:37,802 - INFO - Запуск приложения
+2026-02-25 05:56:37,863 - INFO - Инициализация приложения
+2026-02-25 05:56:37,869 - INFO - Загрузка отработанных строк
+2026-02-25 05:56:45,808 - INFO - Проверка прокси
+2026-02-25 05:56:55,166 - ERROR - Ошибка при проверке прокси: Browser needs to be launched with the global proxy. If all contexts override the proxy, global proxy will be never used and can be any string, for example "launch({ proxy: { server: 'http://per-context' } })"
+2026-02-25 05:58:04,444 - INFO - Экспорт cookies (заглушка)
+2026-02-25 05:58:10,361 - INFO - Запуск выбора файла
+2026-02-25 05:58:16,934 - INFO - Загружено 200 строк из C:/Users/Administrator/Desktop/privateagent1/PrivateAgent/teststroki.txt
+2026-02-25 05:58:21,101 - INFO - Старт процесса (заглушка)
+2026-02-25 06:00:09,179 - INFO - Приложение закрыто
+2026-02-25 06:00:21,898 - INFO - Запуск приложения
+2026-02-25 06:00:21,956 - INFO - Инициализация приложения
+2026-02-25 06:00:21,965 - INFO - Загрузка отработанных строк
+2026-02-25 06:01:15,449 - INFO - Проверка прокси
+2026-02-25 06:01:16,434 - ERROR - Ошибка при проверке прокси: Browser needs to be launched with the global proxy. If all contexts override the proxy, global proxy will be never used and can be any string, for example "launch({ proxy: { server: 'http://per-context' } })"
+2026-02-25 06:01:23,260 - INFO - Экспорт прокси
+2026-02-25 06:01:23,263 - INFO - Прокси сохранены в proxies.txt
+2026-02-25 06:01:27,723 - INFO - Экспорт cookies
+2026-02-25 06:01:32,608 - INFO - Проверка cookies
+2026-02-25 06:03:17,293 - INFO - Приложение закрыто
+2026-02-25 06:03:26,410 - INFO - Запуск приложения
+2026-02-25 06:03:26,458 - INFO - Инициализация приложения
+2026-02-25 06:03:26,463 - INFO - Загрузка отработанных строк
+2026-02-25 06:03:36,175 - INFO - Экспорт прокси
+2026-02-25 06:03:36,176 - INFO - Прокси сохранены в proxies.txt
+2026-02-25 06:03:38,987 - INFO - Экспорт cookies
+2026-02-25 06:03:40,823 - INFO - Проверка cookies
+2026-02-25 06:03:50,203 - ERROR - Ошибка при проверке cookies: Expecting value: line 1 column 1 (char 0)
+2026-02-25 06:03:56,957 - INFO - Проверка cookies
+2026-02-25 06:04:00,438 - ERROR - Ошибка при проверке cookies: Browser needs to be launched with the global proxy. If all contexts override the proxy, global proxy will be never used and can be any string, for example "launch({ proxy: { server: 'http://per-context' } })"
+2026-02-25 06:04:03,015 - INFO - Старт процесса
+2026-02-25 06:04:03,015 - WARNING - Файл со строками не загружен
+2026-02-25 06:04:04,637 - INFO - Запуск выбора файла со строками
+2026-02-25 06:04:19,452 - INFO - Загружено 200 строк из C:/Users/Administrator/Desktop/privateagent1/PrivateAgent/teststroki.txt
+2026-02-25 06:04:21,353 - INFO - Старт процесса
+2026-02-25 06:04:21,354 - WARNING - Cookies не проверены
+2026-02-25 06:04:24,576 - INFO - Проверка прокси
+2026-02-25 06:04:25,476 - ERROR - Ошибка при проверке прокси: Browser needs to be launched with the global proxy. If all contexts override the proxy, global proxy will be never used and can be any string, for example "launch({ proxy: { server: 'http://per-context' } })"
+2026-02-25 06:06:14,764 - INFO - Приложение закрыто
+2026-02-25 06:06:26,028 - INFO - Запуск приложения
+2026-02-25 06:06:26,090 - INFO - Инициализация приложения
+2026-02-25 06:06:26,100 - INFO - Загрузка отработанных строк
+2026-02-25 06:06:49,257 - INFO - Проверка прокси
+2026-02-25 06:07:17,411 - INFO - Проверка прокси
+2026-02-25 06:07:20,156 - INFO - Прокси работает
+2026-02-25 06:07:22,633 - INFO - Запуск выбора файла со строками
+2026-02-25 06:07:25,451 - INFO - Загружено 200 строк из C:/Users/Administrator/Desktop/privateagent1/PrivateAgent/teststroki.txt
+2026-02-25 06:07:28,322 - INFO - Проверка cookies
+2026-02-25 06:07:36,157 - ERROR - Ошибка при проверке cookies: cookies[0].sameSite: expected one of (Strict|Lax|None)
+2026-02-25 06:10:21,288 - INFO - Приложение закрыто
+2026-02-25 06:11:20,320 - INFO - Запуск приложения
+2026-02-25 06:11:20,374 - INFO - Инициализация приложения
+2026-02-25 06:11:20,380 - INFO - Загрузка отработанных строк
+2026-02-25 06:11:41,774 - INFO - Проверка прокси
+2026-02-25 06:11:41,775 - WARNING - Неверный формат прокси
+2026-02-25 06:11:55,693 - INFO - Проверка прокси
+2026-02-25 06:11:55,693 - WARNING - Неверный формат прокси
+2026-02-25 06:12:03,340 - INFO - Проверка прокси
+2026-02-25 06:12:03,342 - WARNING - Неверный формат прокси
+2026-02-25 06:12:13,339 - INFO - Проверка прокси
+2026-02-25 06:12:16,126 - INFO - Прокси работает
+2026-02-25 06:12:30,824 - INFO - Проверка cookies
+2026-02-25 06:12:45,702 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 06:12:53,568 - INFO - Запуск выбора файла со строками
+2026-02-25 06:13:02,046 - INFO - Загружено 200 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:13:06,988 - INFO - Старт процесса
+2026-02-25 06:13:17,120 - INFO - Обработка профиля: https://x.com/LOONAweb3
+2026-02-25 06:13:24,531 - WARNING - Не найден элемент фолловеров для https://x.com/LOONAweb3
+2026-02-25 06:13:24,544 - INFO - Кнопка follow не найдена или уже followed для https://x.com/LOONAweb3
+2026-02-25 06:13:24,545 - INFO - Сохранена отработанная строка: 0xe63c6a8ba3b14a8e555169d8c9930568f6f18410 https://x.com/LOONAweb3 10965
+2026-02-25 06:13:24,547 - INFO - Задержка 3 минут
+2026-02-25 06:18:26,938 - INFO - Запуск приложения
+2026-02-25 06:18:26,999 - INFO - Инициализация приложения
+2026-02-25 06:18:27,006 - INFO - Загрузка отработанных строк
+2026-02-25 06:18:27,007 - INFO - Загрузка конфигурации
+2026-02-25 06:18:36,991 - INFO - Проверка прокси
+2026-02-25 06:18:39,629 - INFO - Прокси работает
+2026-02-25 06:18:40,457 - INFO - Сохранение конфигурации
+2026-02-25 06:18:40,461 - INFO - Конфигурация сохранена
+2026-02-25 06:18:44,014 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:18:54,357 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 06:19:04,925 - INFO - Сохранение конфигурации
+2026-02-25 06:19:04,926 - INFO - Конфигурация сохранена
+2026-02-25 06:19:05,953 - INFO - Запуск выбора файла со строками
+2026-02-25 06:19:08,249 - INFO - Загружено 199 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:19:12,261 - INFO - Старт процесса
+2026-02-25 06:19:22,477 - INFO - Обработка профиля: https://x.com/_Malovanyi
+2026-02-25 06:19:30,198 - WARNING - Не найден элемент фолловеров для https://x.com/_Malovanyi
+2026-02-25 06:19:32,851 - INFO - Follow выполнен для https://x.com/_Malovanyi
+2026-02-25 06:19:32,852 - INFO - Сохранена отработанная строка: 0x3a1b3337d8c876735de68eb33f33e87b3f69eb29 https://x.com/_Malovanyi 4230
+2026-02-25 06:19:32,852 - INFO - Задержка 3 минут
+2026-02-25 06:22:32,853 - INFO - Обработка профиля: https://x.com/AlleyCatNFT
+2026-02-25 06:22:40,352 - WARNING - Не найден элемент фолловеров для https://x.com/AlleyCatNFT
+2026-02-25 06:22:42,721 - INFO - Follow выполнен для https://x.com/AlleyCatNFT
+2026-02-25 06:22:42,722 - INFO - Сохранена отработанная строка: 0x972e633f5f6f62d1f2a13977f113941fcb3b606b https://x.com/AlleyCatNFT 31749
+2026-02-25 06:22:42,725 - INFO - Задержка 3 минут
+2026-02-25 06:25:42,727 - INFO - Обработка профиля: https://x.com/BACHIBOUZOUK17
+2026-02-25 06:25:51,035 - WARNING - Не найден элемент фолловеров для https://x.com/BACHIBOUZOUK17
+2026-02-25 06:25:54,595 - INFO - Follow выполнен для https://x.com/BACHIBOUZOUK17
+2026-02-25 06:25:54,596 - INFO - Сохранена отработанная строка: 0xc399cb4679a5f59a6a4f00473437d0273dd5d7b4 https://x.com/BACHIBOUZOUK17 24565
+2026-02-25 06:25:54,597 - INFO - Задержка 3 минут
+2026-02-25 06:28:54,600 - INFO - Обработка профиля: https://x.com/Xfluencer
+2026-02-25 06:28:54,878 - ERROR - Ошибка в процессе: Target page, context or browser has been closed
+2026-02-25 06:36:06,812 - INFO - Приложение закрыто
+2026-02-25 06:37:50,885 - INFO - Запуск приложения
+2026-02-25 06:37:50,938 - INFO - Инициализация приложения
+2026-02-25 06:37:50,944 - INFO - Загрузка отработанных строк
+2026-02-25 06:37:50,945 - INFO - Загрузка конфигурации
+2026-02-25 06:37:50,945 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:37:56,209 - INFO - Запуск выбора файла со строками
+2026-02-25 06:37:58,921 - INFO - Загружено 196 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:38:09,774 - INFO - Старт процесса
+2026-02-25 06:38:09,775 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:38:20,489 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 06:38:32,208 - INFO - Сохранение конфигурации
+2026-02-25 06:38:32,210 - INFO - Конфигурация сохранена
+2026-02-25 06:38:42,879 - INFO - Обработка профиля: https://x.com/Xfluencer
+2026-02-25 06:38:50,745 - WARNING - Не найден элемент фолловеров для https://x.com/Xfluencer
+2026-02-25 06:38:55,974 - INFO - Страна: June 2021
+2026-02-25 06:39:03,330 - INFO - Follow выполнен для https://x.com/Xfluencer
+2026-02-25 06:39:03,335 - INFO - Сохранена отработанная строка: 0x6839d234cf9e308bbe63423d1bec2fe2465cef9b https://x.com/Xfluencer 4070
+2026-02-25 06:39:03,337 - INFO - Удалена строка '0x6839d234cf9e308bbe63423d1bec2fe2465cef9b https://x.com/Xfluencer 4070' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:39:03,338 - INFO - Задержка 3 минут
+2026-02-25 06:45:47,849 - INFO - Запуск приложения
+2026-02-25 06:45:47,903 - INFO - Инициализация приложения
+2026-02-25 06:45:47,909 - INFO - Загрузка отработанных строк
+2026-02-25 06:45:47,924 - INFO - Загрузка конфигурации
+2026-02-25 06:45:47,925 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:45:49,775 - INFO - Старт процесса
+2026-02-25 06:45:49,775 - WARNING - Файл со строками не загружен
+2026-02-25 06:45:52,410 - INFO - Запуск выбора файла со строками
+2026-02-25 06:45:55,467 - INFO - Загружено 195 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:45:57,547 - INFO - Старт процесса
+2026-02-25 06:45:57,547 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:46:08,857 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 06:46:12,069 - INFO - Сохранение конфигурации
+2026-02-25 06:46:12,073 - INFO - Конфигурация сохранена
+2026-02-25 06:46:22,029 - INFO - Обработка профиля: https://x.com/yeongjingim4
+2026-02-25 06:46:34,046 - WARNING - Не найден элемент фолловеров для https://x.com/yeongjingim4
+2026-02-25 06:46:39,303 - INFO - Страна: Korea
+2026-02-25 06:46:46,616 - INFO - Follow выполнен для https://x.com/yeongjingim4
+2026-02-25 06:46:46,619 - INFO - Сохранена отработанная строка: 0x3e9ae13c621d83f9a639625e661f5e33a7707694 https://x.com/yeongjingim4 11644
+2026-02-25 06:46:46,628 - INFO - Удалена строка '0x3e9ae13c621d83f9a639625e661f5e33a7707694 https://x.com/yeongjingim4 11644' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:46:46,629 - INFO - Задержка 3 минут
+2026-02-25 06:49:40,536 - INFO - Запуск приложения
+2026-02-25 06:49:40,590 - INFO - Инициализация приложения
+2026-02-25 06:49:40,596 - INFO - Загрузка отработанных строк
+2026-02-25 06:49:40,613 - INFO - Загрузка конфигурации
+2026-02-25 06:49:40,614 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:49:42,438 - INFO - Старт процесса
+2026-02-25 06:49:42,438 - WARNING - Файл со строками не загружен
+2026-02-25 06:49:43,951 - INFO - Запуск выбора файла со строками
+2026-02-25 06:49:46,546 - INFO - Загружено 194 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:49:47,901 - INFO - Старт процесса
+2026-02-25 06:49:47,901 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:49:58,309 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 06:49:59,382 - INFO - Сохранение конфигурации
+2026-02-25 06:49:59,387 - INFO - Конфигурация сохранена
+2026-02-25 06:50:09,714 - INFO - Обработка профиля: https://x.com/Pulstura
+2026-02-25 06:50:22,041 - WARNING - Не найден элемент фолловеров для https://x.com/Pulstura
+2026-02-25 06:50:22,043 - INFO - Сохранена отработанная строка: 0x47336ecf66acdf77dec5c0656ebf8170617c0898 https://x.com/Pulstura 15623
+2026-02-25 06:50:22,044 - INFO - Удалена строка '0x47336ecf66acdf77dec5c0656ebf8170617c0898 https://x.com/Pulstura 15623' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:50:22,045 - INFO - Обработка профиля: https://x.com/Priyansh053
+2026-02-25 06:50:34,787 - WARNING - Не найден элемент фолловеров для https://x.com/Priyansh053
+2026-02-25 06:50:34,788 - INFO - Сохранена отработанная строка: 0x60e8b62c7da32ff62fcd4ab934b75d2d28fe7501 https://x.com/Priyansh053 3587
+2026-02-25 06:50:34,790 - INFO - Удалена строка '0x60e8b62c7da32ff62fcd4ab934b75d2d28fe7501 https://x.com/Priyansh053 3587' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:50:34,791 - INFO - Обработка профиля: https://x.com/ICODAQ
+2026-02-25 06:50:47,130 - WARNING - Не найден элемент фолловеров для https://x.com/ICODAQ
+2026-02-25 06:50:47,132 - INFO - Сохранена отработанная строка: 0xee052c3ef235591bfa2519ff3ea1cf794e169df4 https://x.com/ICODAQ 17364
+2026-02-25 06:50:47,133 - INFO - Удалена строка '0xee052c3ef235591bfa2519ff3ea1cf794e169df4 https://x.com/ICODAQ 17364' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:50:47,136 - INFO - Обработка профиля: https://x.com/PhantomBP_giga
+2026-02-25 06:50:59,339 - ERROR - Ошибка при получении фолловеров: Target page, context or browser has been closed
+2026-02-25 06:50:59,340 - INFO - Сохранена отработанная строка: 0xaf9d34623581dffabdbb4c510e08d1faf8b72019 https://x.com/PhantomBP_giga 43864
+2026-02-25 06:50:59,342 - INFO - Удалена строка '0xaf9d34623581dffabdbb4c510e08d1faf8b72019 https://x.com/PhantomBP_giga 43864' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:50:59,343 - INFO - Обработка профиля: https://x.com/albino_peacock_
+2026-02-25 06:50:59,581 - ERROR - Ошибка в процессе: Target page, context or browser has been closed
+2026-02-25 06:53:21,435 - INFO - Старт процесса
+2026-02-25 06:53:31,445 - INFO - Пропуск отработанной строки: 0x47336ecf66acdf77dec5c0656ebf8170617c0898 https://x.com/Pulstura 15623
+2026-02-25 06:53:31,451 - INFO - Удалена строка '0x47336ecf66acdf77dec5c0656ebf8170617c0898 https://x.com/Pulstura 15623' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:53:31,452 - INFO - Пропуск отработанной строки: 0x60e8b62c7da32ff62fcd4ab934b75d2d28fe7501 https://x.com/Priyansh053 3587
+2026-02-25 06:53:31,489 - INFO - Удалена строка '0x60e8b62c7da32ff62fcd4ab934b75d2d28fe7501 https://x.com/Priyansh053 3587' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:53:31,490 - INFO - Пропуск отработанной строки: 0xee052c3ef235591bfa2519ff3ea1cf794e169df4 https://x.com/ICODAQ 17364
+2026-02-25 06:53:31,528 - INFO - Удалена строка '0xee052c3ef235591bfa2519ff3ea1cf794e169df4 https://x.com/ICODAQ 17364' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:53:31,528 - INFO - Пропуск отработанной строки: 0xaf9d34623581dffabdbb4c510e08d1faf8b72019 https://x.com/PhantomBP_giga 43864
+2026-02-25 06:53:31,569 - INFO - Удалена строка '0xaf9d34623581dffabdbb4c510e08d1faf8b72019 https://x.com/PhantomBP_giga 43864' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:53:31,570 - INFO - Обработка профиля: https://x.com/albino_peacock_
+2026-02-25 06:53:44,137 - WARNING - Не найден элемент фолловеров для https://x.com/albino_peacock_
+2026-02-25 06:53:44,138 - INFO - Сохранена отработанная строка: 0xc8ed3c2d1509fcf3a3c97c68de3dba66381d337c https://x.com/albino_peacock_ 35337
+2026-02-25 06:53:44,140 - INFO - Удалена строка '0xc8ed3c2d1509fcf3a3c97c68de3dba66381d337c https://x.com/albino_peacock_ 35337' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:53:44,140 - INFO - Обработка профиля: https://x.com/mw323hk
+2026-02-25 06:57:44,701 - INFO - Запуск приложения
+2026-02-25 06:57:44,752 - INFO - Инициализация приложения
+2026-02-25 06:57:44,757 - INFO - Загрузка отработанных строк
+2026-02-25 06:57:44,757 - INFO - Загрузка конфигурации
+2026-02-25 06:57:44,757 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:57:49,070 - INFO - Старт процесса
+2026-02-25 06:57:49,071 - WARNING - Файл со строками не загружен
+2026-02-25 06:57:51,216 - INFO - Запуск выбора файла со строками
+2026-02-25 06:57:53,671 - INFO - Загружено 189 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:57:55,344 - INFO - Старт процесса
+2026-02-25 06:57:55,344 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 06:58:05,809 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 06:58:14,384 - INFO - Сохранение конфигурации
+2026-02-25 06:58:14,384 - INFO - Конфигурация сохранена
+2026-02-25 06:58:24,359 - INFO - Обработка профиля: https://x.com/mw323hk
+2026-02-25 06:58:36,681 - WARNING - Не найден элемент фолловеров для https://x.com/mw323hk
+2026-02-25 06:58:41,891 - INFO - Страна: Hong Kong
+2026-02-25 06:58:49,208 - INFO - Follow выполнен для https://x.com/mw323hk
+2026-02-25 06:58:49,209 - INFO - Сохранена отработанная строка: 0x2a83e913a0b2533520958bcd1b85351612b7e496 https://x.com/mw323hk 9600
+2026-02-25 06:58:49,210 - INFO - Удалена строка '0x2a83e913a0b2533520958bcd1b85351612b7e496 https://x.com/mw323hk 9600' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 06:58:49,211 - INFO - Задержка 3 минут
+2026-02-25 07:01:49,212 - INFO - Обработка профиля: https://x.com/TheCulverized
+2026-02-25 07:01:49,441 - ERROR - Ошибка в процессе: Target page, context or browser has been closed
+2026-02-25 07:03:32,866 - INFO - Приложение закрыто
+2026-02-25 07:03:44,603 - INFO - Запуск приложения
+2026-02-25 07:03:44,662 - INFO - Инициализация приложения
+2026-02-25 07:03:44,669 - INFO - Загрузка отработанных строк
+2026-02-25 07:03:44,670 - INFO - Загрузка конфигурации
+2026-02-25 07:03:44,672 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:03:46,469 - INFO - Запуск выбора файла со строками
+2026-02-25 07:03:48,940 - INFO - Загружено 188 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:03:52,572 - INFO - Старт процесса
+2026-02-25 07:03:52,573 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:03:57,078 - ERROR - Ошибка при проверке cookies: Target page, context or browser has been closed
+2026-02-25 07:04:01,094 - INFO - Старт процесса
+2026-02-25 07:04:01,097 - WARNING - Cookies не проверены
+2026-02-25 07:04:04,611 - INFO - Старт процесса
+2026-02-25 07:04:04,612 - WARNING - Cookies не проверены
+2026-02-25 07:04:09,217 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:04:19,518 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 07:04:22,880 - INFO - Сохранение конфигурации
+2026-02-25 07:04:22,899 - INFO - Конфигурация сохранена
+2026-02-25 07:04:25,570 - INFO - Старт процесса
+2026-02-25 07:04:35,571 - INFO - Обработка профиля: https://x.com/TheCulverized
+2026-02-25 07:04:48,229 - WARNING - Не найден элемент фолловеров для https://x.com/TheCulverized
+2026-02-25 07:04:53,477 - INFO - Страна: United States
+2026-02-25 07:05:00,844 - INFO - Follow выполнен для https://x.com/TheCulverized
+2026-02-25 07:05:00,846 - INFO - Сохранена отработанная строка: 0x668e20d4d3dc229c4a864d4f002b1ecc7a5a745f https://x.com/TheCulverized 29498
+2026-02-25 07:05:00,852 - INFO - Удалена строка '0x668e20d4d3dc229c4a864d4f002b1ecc7a5a745f https://x.com/TheCulverized 29498' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:05:00,854 - INFO - Задержка 3 минут
+2026-02-25 07:08:00,855 - INFO - Обработка профиля: https://x.com/aachintya007
+2026-02-25 07:08:01,073 - ERROR - Ошибка в процессе: Target page, context or browser has been closed
+2026-02-25 07:13:36,031 - INFO - Приложение закрыто
+2026-02-25 07:21:22,721 - INFO - Запуск приложения
+2026-02-25 07:21:22,771 - INFO - Инициализация приложения
+2026-02-25 07:21:22,776 - INFO - Загрузка отработанных строк
+2026-02-25 07:21:22,777 - INFO - Загрузка конфигурации
+2026-02-25 07:21:22,778 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:21:28,345 - INFO - Старт процесса
+2026-02-25 07:21:28,345 - WARNING - Файл со строками не загружен
+2026-02-25 07:21:36,245 - INFO - Запуск выбора файла со строками
+2026-02-25 07:21:38,982 - INFO - Загружено 187 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:21:41,281 - INFO - Старт процесса
+2026-02-25 07:21:41,282 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:21:51,409 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 07:21:57,201 - INFO - Сохранение конфигурации
+2026-02-25 07:21:57,203 - INFO - Конфигурация сохранена
+2026-02-25 07:22:06,974 - INFO - Обработка профиля: https://x.com/aachintya007
+2026-02-25 07:22:18,913 - INFO - Фолловеров: inf
+2026-02-25 07:22:18,914 - INFO - Пропуск: слишком много фолловеров (inf > 5000)
+2026-02-25 07:22:18,915 - INFO - Сохранена отработанная строка: 0x623ea30df898f07155e372722b87e92e4d5a1b02 https://x.com/aachintya007 3079
+2026-02-25 07:22:18,916 - INFO - Удалена строка '0x623ea30df898f07155e372722b87e92e4d5a1b02 https://x.com/aachintya007 3079' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:22:18,917 - INFO - Обработка профиля: https://x.com/tnBIiKJpUmvc88W
+2026-02-25 07:22:31,135 - INFO - Фолловеров: inf
+2026-02-25 07:22:31,135 - INFO - Пропуск: слишком много фолловеров (inf > 5000)
+2026-02-25 07:22:31,138 - INFO - Сохранена отработанная строка: 0xcc33d826a33b47eeec6cea8ad5f4b8f69d4511da https://x.com/tnBIiKJpUmvc88W 10664
+2026-02-25 07:22:31,139 - INFO - Удалена строка '0xcc33d826a33b47eeec6cea8ad5f4b8f69d4511da https://x.com/tnBIiKJpUmvc88W 10664' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:22:31,140 - INFO - Обработка профиля: https://x.com/John28321LOE
+2026-02-25 07:22:43,071 - WARNING - Не найден элемент фолловеров для https://x.com/John28321LOE
+2026-02-25 07:22:48,322 - INFO - Страна: Poland
+2026-02-25 07:22:55,588 - INFO - Follow выполнен для https://x.com/John28321LOE
+2026-02-25 07:22:55,589 - INFO - Сохранена отработанная строка: 0x44b37c559dee0d6f31863c08e3d34704675fecaf https://x.com/John28321LOE 4505
+2026-02-25 07:22:55,592 - INFO - Удалена строка '0x44b37c559dee0d6f31863c08e3d34704675fecaf https://x.com/John28321LOE 4505' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:22:55,593 - INFO - Задержка 3 минут
+2026-02-25 07:25:55,595 - INFO - Обработка профиля: https://x.com/zhenya200439
+2026-02-25 07:26:08,048 - WARNING - Не найден элемент фолловеров для https://x.com/zhenya200439
+2026-02-25 07:26:13,220 - INFO - Страна: Netherlands
+2026-02-25 07:26:20,530 - INFO - Follow выполнен для https://x.com/zhenya200439
+2026-02-25 07:26:20,533 - INFO - Сохранена отработанная строка: 0xf91b1c46dd38e14976e9e00fb223aba7a4357420 https://x.com/zhenya200439 5591
+2026-02-25 07:26:20,584 - INFO - Удалена строка '0xf91b1c46dd38e14976e9e00fb223aba7a4357420 https://x.com/zhenya200439 5591' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:26:20,585 - INFO - Задержка 3 минут
+2026-02-25 07:32:54,927 - INFO - Запуск приложения
+2026-02-25 07:32:54,985 - INFO - Инициализация приложения
+2026-02-25 07:32:54,990 - INFO - Загрузка отработанных строк
+2026-02-25 07:32:54,991 - INFO - Загрузка конфигурации
+2026-02-25 07:32:54,992 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:32:56,392 - INFO - Запуск выбора файла со строками
+2026-02-25 07:32:58,639 - INFO - Загружено 183 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:33:03,148 - INFO - Старт процесса
+2026-02-25 07:33:03,148 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:33:13,064 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 07:33:23,529 - INFO - Сохранение конфигурации
+2026-02-25 07:33:23,530 - INFO - Конфигурация сохранена
+2026-02-25 07:33:33,533 - INFO - Обработка профиля: https://x.com/islaseviaaam
+2026-02-25 07:33:45,796 - WARNING - Не найден элемент фолловеров для https://x.com/islaseviaaam
+2026-02-25 07:33:51,079 - INFO - Страна: Indonesia
+2026-02-25 07:33:58,530 - INFO - Follow выполнен для https://x.com/islaseviaaam
+2026-02-25 07:33:58,533 - INFO - Сохранена отработанная строка: 0x6783df04e1312ef4839b391f1a14268f7b2319fa https://x.com/islaseviaaam 8818
+2026-02-25 07:33:58,534 - INFO - Удалена строка '0x6783df04e1312ef4839b391f1a14268f7b2319fa https://x.com/islaseviaaam 8818' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:33:58,536 - INFO - Задержка 3 минут
+2026-02-25 07:36:58,537 - INFO - Обработка профиля: https://x.com/firefloflo
+2026-02-25 07:37:11,496 - WARNING - Не найден элемент фолловеров для https://x.com/firefloflo
+2026-02-25 07:37:16,700 - INFO - Страна: France
+2026-02-25 07:37:24,098 - INFO - Follow выполнен для https://x.com/firefloflo
+2026-02-25 07:37:24,108 - INFO - Сохранена отработанная строка: 0x942c37f8b128179834c0fa5593c0166bed260618 https://x.com/firefloflo 4692
+2026-02-25 07:37:24,109 - INFO - Удалена строка '0x942c37f8b128179834c0fa5593c0166bed260618 https://x.com/firefloflo 4692' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:37:24,111 - INFO - Задержка 3 минут
+2026-02-25 07:38:16,209 - INFO - Запуск приложения
+2026-02-25 07:38:16,278 - INFO - Инициализация приложения
+2026-02-25 07:38:16,285 - INFO - Загрузка отработанных строк
+2026-02-25 07:38:16,286 - INFO - Загрузка конфигурации
+2026-02-25 07:38:16,288 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:38:18,421 - INFO - Запуск выбора файла со строками
+2026-02-25 07:38:20,671 - INFO - Загружено 181 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:38:22,272 - INFO - Старт процесса
+2026-02-25 07:38:22,273 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 07:38:32,194 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 07:38:40,003 - INFO - Сохранение конфигурации
+2026-02-25 07:38:40,014 - INFO - Конфигурация сохранена
+2026-02-25 07:38:50,005 - INFO - Обработка профиля: https://x.com/CitywalkZhou
+2026-02-25 07:39:32,522 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/CitywalkZhou
+2026-02-25 07:39:37,706 - INFO - Страна: Hong Kong
+2026-02-25 07:39:44,979 - INFO - Follow выполнен для https://x.com/CitywalkZhou
+2026-02-25 07:39:44,980 - INFO - Сохранена отработанная строка: 0x5508dabda3b990d9d225fc6a91fde068528d208e https://x.com/CitywalkZhou 3630
+2026-02-25 07:39:44,982 - INFO - Удалена строка '0x5508dabda3b990d9d225fc6a91fde068528d208e https://x.com/CitywalkZhou 3630' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:39:44,983 - INFO - Задержка 3 минут
+2026-02-25 07:42:44,983 - INFO - Обработка профиля: https://x.com/Justwavsy
+2026-02-25 07:43:27,544 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/Justwavsy
+2026-02-25 07:43:32,780 - INFO - Страна: Turkey
+2026-02-25 07:43:40,044 - INFO - Follow выполнен для https://x.com/Justwavsy
+2026-02-25 07:43:40,045 - INFO - Сохранена отработанная строка: 0x35bba09ee1db61cbc2feb015f21b761c49c4cff1 https://x.com/Justwavsy 4814
+2026-02-25 07:43:40,049 - INFO - Удалена строка '0x35bba09ee1db61cbc2feb015f21b761c49c4cff1 https://x.com/Justwavsy 4814' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:43:40,049 - INFO - Задержка 3 минут
+2026-02-25 07:46:40,050 - INFO - Обработка профиля: https://x.com/BillWubb
+2026-02-25 07:47:22,617 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/BillWubb
+2026-02-25 07:47:27,857 - INFO - Страна: Hong Kong
+2026-02-25 07:47:35,209 - INFO - Follow выполнен для https://x.com/BillWubb
+2026-02-25 07:47:35,210 - INFO - Сохранена отработанная строка: 0x374c8afb8e7d75c71d880862dec75ec2dc5ea380 https://x.com/BillWubb 4885
+2026-02-25 07:47:35,211 - INFO - Удалена строка '0x374c8afb8e7d75c71d880862dec75ec2dc5ea380 https://x.com/BillWubb 4885' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 07:47:35,213 - INFO - Задержка 3 минут
+2026-02-25 13:00:00,025 - INFO - Запуск приложения
+2026-02-25 13:00:00,104 - INFO - Инициализация приложения
+2026-02-25 13:00:00,112 - INFO - Загрузка отработанных строк
+2026-02-25 13:00:00,113 - INFO - Загрузка конфигурации
+2026-02-25 13:00:00,114 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 13:00:02,585 - INFO - Запуск выбора файла со строками
+2026-02-25 13:00:05,608 - INFO - Загружено 178 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:00:07,856 - INFO - Старт процесса
+2026-02-25 13:00:07,856 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 13:00:17,574 - ERROR - Ошибка при проверке cookies: net::ERR_TIMED_OUT at https://x.com/home
+2026-02-25 13:00:28,682 - INFO - Старт процесса
+2026-02-25 13:00:28,682 - WARNING - Cookies не проверены
+2026-02-25 13:00:37,148 - INFO - Экспорт cookies
+2026-02-25 13:00:45,499 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 13:01:16,841 - ERROR - Ошибка при проверке cookies: Timeout 30000ms exceeded.
+2026-02-25 13:01:36,724 - INFO - Приложение закрыто
+2026-02-25 13:01:53,455 - INFO - Запуск приложения
+2026-02-25 13:01:53,516 - INFO - Инициализация приложения
+2026-02-25 13:01:53,523 - INFO - Загрузка отработанных строк
+2026-02-25 13:01:53,524 - INFO - Загрузка конфигурации
+2026-02-25 13:01:53,524 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 13:02:03,245 - INFO - Старт процесса
+2026-02-25 13:02:03,245 - WARNING - Файл со строками не загружен
+2026-02-25 13:02:05,728 - INFO - Запуск выбора файла со строками
+2026-02-25 13:02:08,046 - INFO - Загружено 178 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:02:09,678 - INFO - Старт процесса
+2026-02-25 13:02:09,679 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 13:02:20,680 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 13:02:23,376 - INFO - Сохранение конфигурации
+2026-02-25 13:02:23,379 - INFO - Конфигурация сохранена
+2026-02-25 13:02:33,616 - INFO - Обработка профиля: https://x.com/kenzy_mj
+2026-02-25 13:03:16,804 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/kenzy_mj
+2026-02-25 13:03:22,071 - INFO - Страна: Singapore
+2026-02-25 13:04:12,858 - INFO - Follow выполнен для https://x.com/kenzy_mj
+2026-02-25 13:04:12,859 - INFO - Сохранена отработанная строка: 0xa5b98fca8ceeda11f2bed917cac8d589d0d28de4 https://x.com/kenzy_mj 105189
+2026-02-25 13:04:12,860 - INFO - Удалена строка '0xa5b98fca8ceeda11f2bed917cac8d589d0d28de4 https://x.com/kenzy_mj 105189' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:04:12,861 - INFO - Задержка 3 минут
+2026-02-25 13:07:12,861 - INFO - Обработка профиля: https://x.com/theprash0x
+2026-02-25 13:07:13,067 - ERROR - Ошибка в процессе: Target page, context or browser has been closed
+2026-02-25 13:07:38,012 - INFO - Приложение закрыто
+2026-02-25 13:07:41,173 - INFO - Запуск приложения
+2026-02-25 13:07:41,224 - INFO - Инициализация приложения
+2026-02-25 13:07:41,230 - INFO - Загрузка отработанных строк
+2026-02-25 13:07:41,230 - INFO - Загрузка конфигурации
+2026-02-25 13:07:41,242 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 13:07:42,636 - INFO - Запуск выбора файла со строками
+2026-02-25 13:07:44,671 - INFO - Загружено 177 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:07:46,462 - INFO - Старт процесса
+2026-02-25 13:07:46,464 - INFO - Проверка cookies из C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 13:08:04,735 - INFO - Cookies действительны: аккаунт залогинен
+2026-02-25 13:08:09,984 - INFO - Сохранение конфигурации
+2026-02-25 13:08:09,987 - INFO - Конфигурация сохранена
+2026-02-25 13:08:19,634 - INFO - Обработка профиля: https://x.com/theprash0x
+2026-02-25 13:09:15,874 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/theprash0x
+2026-02-25 13:09:21,075 - INFO - Страна: India
+2026-02-25 13:09:28,370 - INFO - Follow выполнен для https://x.com/theprash0x
+2026-02-25 13:09:28,371 - INFO - Сохранена отработанная строка: 0x2dd1adf6ef88766105746fec96435dad191b04bb https://x.com/theprash0x 3194
+2026-02-25 13:09:28,378 - INFO - Удалена строка '0x2dd1adf6ef88766105746fec96435dad191b04bb https://x.com/theprash0x 3194' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:09:28,382 - INFO - Задержка 3 минут
+2026-02-25 13:12:28,383 - INFO - Обработка профиля: https://x.com/pedrone72
+2026-02-25 13:13:11,531 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/pedrone72
+2026-02-25 13:13:16,810 - INFO - Страна: Spain
+2026-02-25 13:13:16,811 - INFO - Пропуск: недопустимая страна Spain
+2026-02-25 13:13:21,832 - INFO - Сохранена отработанная строка: 0xd7e9c353fc4c190b556af1b2764133ad32a44864 https://x.com/pedrone72 3958
+2026-02-25 13:13:21,835 - INFO - Удалена строка '0xd7e9c353fc4c190b556af1b2764133ad32a44864 https://x.com/pedrone72 3958' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:13:21,843 - INFO - Обработка профиля: https://x.com/andrewcyber7979
+2026-02-25 13:14:04,460 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/andrewcyber7979
+2026-02-25 13:14:09,694 - INFO - Страна: Hong Kong
+2026-02-25 13:14:17,045 - INFO - Follow выполнен для https://x.com/andrewcyber7979
+2026-02-25 13:14:17,046 - INFO - Сохранена отработанная строка: 0x627b63da1391deac116397a09a6efc644375709e https://x.com/andrewcyber7979 93129
+2026-02-25 13:14:17,049 - INFO - Удалена строка '0x627b63da1391deac116397a09a6efc644375709e https://x.com/andrewcyber7979 93129' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:14:17,051 - INFO - Задержка 3 минут
+2026-02-25 13:17:17,052 - INFO - Обработка профиля: https://x.com/ustyianskyi
+2026-02-25 13:17:59,544 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/ustyianskyi
+2026-02-25 13:18:04,800 - INFO - Страна: Ukraine
+2026-02-25 13:18:04,803 - INFO - Пропуск: недопустимая страна Ukraine
+2026-02-25 13:18:09,827 - INFO - Сохранена отработанная строка: 0xde332e4be5738d744b84fc63b24dbd6fc44bba22 https://x.com/ustyianskyi 6796
+2026-02-25 13:18:09,830 - INFO - Удалена строка '0xde332e4be5738d744b84fc63b24dbd6fc44bba22 https://x.com/ustyianskyi 6796' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:18:09,832 - INFO - Обработка профиля: https://x.com/MubarakTemidayo
+2026-02-25 13:18:52,205 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/MubarakTemidayo
+2026-02-25 13:18:57,440 - INFO - Страна: Africa
+2026-02-25 13:19:04,704 - INFO - Follow выполнен для https://x.com/MubarakTemidayo
+2026-02-25 13:19:04,715 - INFO - Сохранена отработанная строка: 0x30a37889e50d288d8c0d9019162e8ca207d110f0 https://x.com/MubarakTemidayo 3386
+2026-02-25 13:19:04,718 - INFO - Удалена строка '0x30a37889e50d288d8c0d9019162e8ca207d110f0 https://x.com/MubarakTemidayo 3386' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:19:04,723 - INFO - Задержка 3 минут
+2026-02-25 13:22:04,724 - INFO - Обработка профиля: https://x.com/sam_isrc
+2026-02-25 13:22:47,314 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/sam_isrc
+2026-02-25 13:22:52,544 - INFO - Страна: India
+2026-02-25 13:22:59,852 - INFO - Follow выполнен для https://x.com/sam_isrc
+2026-02-25 13:22:59,852 - INFO - Сохранена отработанная строка: 0xde848f5949206a9e66e1800e2c5a69d2601fbc22 https://x.com/sam_isrc 7567
+2026-02-25 13:22:59,856 - INFO - Удалена строка '0xde848f5949206a9e66e1800e2c5a69d2601fbc22 https://x.com/sam_isrc 7567' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:22:59,857 - INFO - Задержка 3 минут
+2026-02-25 13:25:59,858 - INFO - Обработка профиля: https://x.com/naftal777
+2026-02-25 13:26:42,488 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/naftal777
+2026-02-25 13:26:47,732 - INFO - Страна: Korea
+2026-02-25 13:26:55,060 - INFO - Follow выполнен для https://x.com/naftal777
+2026-02-25 13:26:55,061 - INFO - Сохранена отработанная строка: 0x7ac00f69e944fcaafb69495a132a6a29958adedf https://x.com/naftal777 26509
+2026-02-25 13:26:55,066 - INFO - Удалена строка '0x7ac00f69e944fcaafb69495a132a6a29958adedf https://x.com/naftal777 26509' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:26:55,075 - INFO - Задержка 3 минут
+2026-02-25 13:29:55,075 - INFO - Обработка профиля: https://x.com/DenysPankratov
+2026-02-25 13:30:37,501 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/DenysPankratov
+2026-02-25 13:30:42,747 - INFO - Страна: Croatia
+2026-02-25 13:30:50,088 - INFO - Follow выполнен для https://x.com/DenysPankratov
+2026-02-25 13:30:50,090 - INFO - Сохранена отработанная строка: 0x4142301ff759427d76987d5d72f31a2c01ae7fd5 https://x.com/DenysPankratov 33215
+2026-02-25 13:30:50,099 - INFO - Удалена строка '0x4142301ff759427d76987d5d72f31a2c01ae7fd5 https://x.com/DenysPankratov 33215' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:30:50,100 - INFO - Задержка 3 минут
+2026-02-25 13:33:50,101 - INFO - Обработка профиля: https://x.com/Smitty_xyz
+2026-02-25 13:34:33,105 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/Smitty_xyz
+2026-02-25 13:34:38,364 - INFO - Страна: Europe
+2026-02-25 13:34:45,678 - INFO - Follow выполнен для https://x.com/Smitty_xyz
+2026-02-25 13:34:45,683 - INFO - Сохранена отработанная строка: 0x14dadf66579d2c696d5fb675c5dedad554df7b4e https://x.com/Smitty_xyz 17616
+2026-02-25 13:34:45,700 - INFO - Удалена строка '0x14dadf66579d2c696d5fb675c5dedad554df7b4e https://x.com/Smitty_xyz 17616' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:34:45,701 - INFO - Задержка 3 минут
+2026-02-25 13:37:45,703 - INFO - Обработка профиля: https://x.com/Yang9666
+2026-02-25 13:38:28,525 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/Yang9666
+2026-02-25 13:38:33,911 - INFO - Страна: Hong Kong
+2026-02-25 13:38:41,220 - INFO - Follow выполнен для https://x.com/Yang9666
+2026-02-25 13:38:41,232 - INFO - Сохранена отработанная строка: 0x818f04c75014da72197d82d84a3be8cd7949e653 https://x.com/Yang9666 3129
+2026-02-25 13:38:41,250 - INFO - Удалена строка '0x818f04c75014da72197d82d84a3be8cd7949e653 https://x.com/Yang9666 3129' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:38:41,251 - INFO - Задержка 3 минут
+2026-02-25 13:41:41,252 - INFO - Обработка профиля: https://x.com/RMouchrek
+2026-02-25 13:42:23,707 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/RMouchrek
+2026-02-25 13:42:28,946 - INFO - Страна: Morocco
+2026-02-25 13:42:36,285 - INFO - Follow выполнен для https://x.com/RMouchrek
+2026-02-25 13:42:36,286 - INFO - Сохранена отработанная строка: 0xf4f5020da3150f5ed642a9a7f56d917432803966 https://x.com/RMouchrek 5347
+2026-02-25 13:42:36,380 - INFO - Удалена строка '0xf4f5020da3150f5ed642a9a7f56d917432803966 https://x.com/RMouchrek 5347' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:42:36,384 - INFO - Задержка 3 минут
+2026-02-25 13:45:36,386 - INFO - Обработка профиля: https://x.com/Fiboonachi
+2026-02-25 13:46:19,077 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/Fiboonachi
+2026-02-25 13:46:24,309 - INFO - Страна: Germany
+2026-02-25 13:46:31,632 - INFO - Follow выполнен для https://x.com/Fiboonachi
+2026-02-25 13:46:31,636 - INFO - Сохранена отработанная строка: 0x5aa0f3d2f5b1b93e0e1e4ea1682d89fd1eba0feb https://x.com/Fiboonachi 215363
+2026-02-25 13:46:31,653 - INFO - Удалена строка '0x5aa0f3d2f5b1b93e0e1e4ea1682d89fd1eba0feb https://x.com/Fiboonachi 215363' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:46:31,660 - INFO - Задержка 3 минут
+2026-02-25 13:49:31,663 - INFO - Обработка профиля: https://x.com/AmannJuglan
+2026-02-25 13:49:48,708 - ERROR - Ошибка при получении фолловеров: Target page, context or browser has been closed
+2026-02-25 13:49:48,750 - ERROR - Ошибка при проверке страны: Target page, context or browser has been closed
+2026-02-25 13:49:48,754 - INFO - Сохранена отработанная строка: 0xd493aeb502fb60440911826d8d401d85aa4bb110 https://x.com/AmannJuglan 3203
+2026-02-25 13:49:48,757 - INFO - Удалена строка '0xd493aeb502fb60440911826d8d401d85aa4bb110 https://x.com/AmannJuglan 3203' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 13:49:48,764 - INFO - Обработка профиля: https://x.com/Yak_Coin
+2026-02-25 13:49:49,125 - ERROR - Ошибка в процессе: Target page, context or browser has been closed
+2026-02-25 13:58:38,060 - INFO - Приложение закрыто
+2026-02-25 14:03:13,949 - INFO - Запуск приложения
+2026-02-25 14:03:14,494 - INFO - Инициализация приложения
+2026-02-25 14:03:14,499 - INFO - Загрузка отработанных строк
+2026-02-25 14:03:14,500 - INFO - Загрузка конфигурации
+2026-02-25 14:03:14,502 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-02-25 14:03:37,273 - INFO - Старт процесса
+2026-02-25 14:03:37,274 - WARNING - Файл со строками не загружен
+2026-02-25 14:03:49,241 - INFO - Запуск выбора файла со строками
+2026-02-25 14:03:51,640 - INFO - Загружено 164 строк из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 14:03:54,523 - INFO - Старт процесса
+2026-02-25 14:03:54,524 - INFO - Сохранение конфигурации
+2026-02-25 14:03:54,525 - INFO - Конфигурация сохранена
+2026-02-25 14:04:08,710 - INFO - Обработка профиля: https://x.com/Yak_Coin
+2026-02-25 14:04:50,864 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/Yak_Coin
+2026-02-25 14:04:56,073 - INFO - Страна: France
+2026-02-25 14:05:03,374 - INFO - Follow выполнен для https://x.com/Yak_Coin
+2026-02-25 14:05:03,376 - INFO - Сохранена отработанная строка: 0x70007ee028384c4609c1d9c0e145db41cfd69b6d https://x.com/Yak_Coin 6512
+2026-02-25 14:05:03,377 - INFO - Удалена строка '0x70007ee028384c4609c1d9c0e145db41cfd69b6d https://x.com/Yak_Coin 6512' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 14:05:03,378 - INFO - Задержка 3 минут
+2026-02-25 14:08:03,380 - INFO - Обработка профиля: https://x.com/onchainkiki
+2026-02-25 14:08:46,157 - WARNING - Таймаут ожидания элемента фолловеров для https://x.com/onchainkiki
+2026-02-25 14:08:51,377 - INFO - Страна: United States
+2026-02-25 14:08:58,657 - INFO - Follow выполнен для https://x.com/onchainkiki
+2026-02-25 14:08:58,661 - INFO - Сохранена отработанная строка: 0xc0734dfc7f6f6cfdec1d51669e85832615e6769c https://x.com/onchainkiki 6422
+2026-02-25 14:08:58,663 - INFO - Удалена строка '0xc0734dfc7f6f6cfdec1d51669e85832615e6769c https://x.com/onchainkiki 6422' из C:/Users/Administrator/Desktop/twittersoftbycode/teststroki.txt
+2026-02-25 14:08:58,664 - INFO - Задержка 3 минут
+2026-04-11 05:27:42,408 - INFO - Запуск приложения
+2026-04-11 05:27:43,177 - INFO - Загрузка конфигурации
+2026-04-11 05:27:43,208 - INFO - Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-04-11 05:40:10,724 - INFO - 🚀 Запуск приложения AutoFollow X
+2026-04-11 05:40:11,989 - INFO - 📂 Загрузка конфигурации
+2026-04-11 05:40:11,989 - INFO - ✅ Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-04-11 05:40:12,005 - INFO - 🤖 Telegram bot запущен
+2026-04-11 05:41:05,577 - INFO - 🚀 Запуск приложения AutoFollow X
+2026-04-11 05:41:06,911 - INFO - 📂 Загрузка конфигурации
+2026-04-11 05:41:06,911 - INFO - ✅ Конфигурация загружена: прокси=http://8jBYEwxR:jn4hjipU@142.252.8.144:62256, cookies_path=C:/Users/Administrator/Desktop/twittersoftbycode/cookies.txt
+2026-04-11 05:41:06,927 - INFO - 🤖 Telegram bot запущен
+2026-04-11 05:41:23,010 - INFO - 📂 Выбор файла со строками
+2026-04-11 05:41:29,021 - INFO - ✅ Загружено 222 строк из C:/Users/Administrator/Desktop/twittersoftbycode/apri8str500.txt
+2026-04-11 05:41:39,739 - INFO - 💾 Сохранение конфигурации
+2026-04-11 05:41:39,755 - INFO - ✅ Конфигурация сохранена
+2026-04-11 05:41:40,677 - INFO - 🚀 run_process ЗАПУЩЕН — начинаем обработку
+2026-04-11 05:41:45,834 - ERROR - ❌ Критическая ошибка в run_process: Page.goto: net::ERR_PROXY_CONNECTION_FAILED at https://x.com/home
+Call log:
+  - navigating to "https://x.com/home", waiting until "load"
+
+2026-04-11 05:43:12,118 - INFO - 🔍 Проверка прокси
+2026-04-11 05:43:14,513 - INFO - ✅ Прокси работает!
+2026-04-11 05:43:15,443 - INFO - 💾 Сохранение конфигурации
+2026-04-11 05:43:15,458 - INFO - ✅ Конфигурация сохранена
+2026-04-11 05:43:19,099 - INFO - 💾 Сохранение конфигурации
+2026-04-11 05:43:19,114 - INFO - ✅ Конфигурация сохранена
+2026-04-11 05:43:20,028 - INFO - 🚀 run_process ЗАПУЩЕН — начинаем обработку
+2026-04-11 05:43:35,946 - INFO - 🔄 Обработка профиля: https://x.com/GotMarius
+2026-04-11 05:43:48,954 - INFO - 🔍 Проверка даты последних 2 твитов...
+2026-04-11 05:43:49,042 - INFO - 📅 Твит #1: 2023-03-21 (год 2023)
+2026-04-11 05:43:49,073 - INFO - 📅 Твит #2: 2023-03-21 (год 2023)
+2026-04-11 05:43:49,089 - INFO - ⛔ Последние 2 твита до 2025 года — удаляем строку
+2026-04-11 05:43:49,117 - INFO - ⛔ Пропуск неактивного профиля (твиты до 2025): https://x.com/GotMarius
+2026-04-11 05:43:49,138 - INFO - ✅ Сохранена отработанная строка: 0x2ca361efd8d96e0f8bdb40664cebb3acb8c7b673 https:/...
+2026-04-11 05:43:49,149 - INFO - 🗑 Удалена строка: 0x2ca361efd8d96e0f8bdb40664cebb3acb8c7b673 https:/...
+2026-04-11 05:43:49,183 - INFO - 🔄 Обработка профиля: https://x.com/flowgeorgeflow
+2026-04-11 05:43:59,505 - INFO - 🔍 Проверка даты последних 2 твитов...
+2026-04-11 05:43:59,553 - INFO - 📅 Твит #1: 2024-07-29 (год 2024)
+2026-04-11 05:43:59,581 - INFO - 📅 Твит #2: 2026-03-19 (год 2026)
+2026-04-11 05:43:59,596 - INFO - ✅ Есть хотя бы один твит 2025+ — продолжаем
+2026-04-11 05:43:59,621 - INFO - 👥 Фолловеров: 576 (найдено: 576)
+2026-04-11 05:44:04,791 - INFO - 🌍 Страна: Spain
+2026-04-11 05:44:04,815 - INFO - ⏭ Пропуск: недопустимая страна Spain
+2026-04-11 05:44:09,854 - INFO - ✅ Сохранена отработанная строка: 0x91707502a8dfdc523f7a6f2c218cc9a52777d5ad https:/...
+2026-04-11 05:44:09,903 - INFO - 🗑 Удалена строка: 0x91707502a8dfdc523f7a6f2c218cc9a52777d5ad https:/...
+2026-04-11 05:44:09,927 - INFO - 🔄 Обработка профиля: https://x.com/Gao19Gao
+2026-04-11 05:44:23,027 - INFO - 🔍 Проверка даты последних 2 твитов...
+2026-04-11 05:44:23,213 - ERROR - ❌ Ошибка при проверке дат твитов: Locator.get_attribute: Error: strict mode violation: locator("article[data-testid=\"tweet\"]").first.locator("time") resolved to 2 elements:
+    1) <time datetime="2026-03-17T06:50:04.000Z">Mar 16</time> aka get_by_test_id("primaryColumn").get_by_role("link", name="Mar")
+    2) <time datetime="2026-02-25T11:02:20.000Z">Feb 25</time> aka get_by_role("link", name="Square profile picture Binance Wallet Verified account @BinanceWallet Feb 25")
+
+Call log:
+  - waiting for locator("article[data-testid=\"tweet\"]").first.locator("time")
+
+2026-04-11 05:44:23,271 - INFO - ⛔ Пропуск неактивного профиля (твиты до 2025): https://x.com/Gao19Gao
+2026-04-11 05:44:23,302 - INFO - ✅ Сохранена отработанная строка: 0xa77cff0af1dfa30ea7d3d99e222608bc4b1bb404 https:/...
+2026-04-11 05:44:23,341 - INFO - 🗑 Удалена строка: 0xa77cff0af1dfa30ea7d3d99e222608bc4b1bb404 https:/...
+2026-04-11 05:44:23,364 - INFO - 🔄 Обработка профиля: https://x.com/Airdropinsider_
+2026-04-11 05:44:43,975 - INFO - 🔍 Проверка даты последних 2 твитов...
+2026-04-11 05:44:56,932 - INFO - ⏹ Процесс остановлен пользователем
+2026-04-11 05:45:01,995 - ERROR - ❌ Ошибка при проверке дат твитов: Page.wait_for_selector: Timeout 18000ms exceeded.
+Call log:
+  - waiting for locator("article[data-testid=\"tweet\"]") to be visible
+
+2026-04-11 05:45:02,012 - INFO - ⛔ Пропуск неактивного профиля (твиты до 2025): https://x.com/Airdropinsider_
+2026-04-11 05:45:02,049 - INFO - ✅ Сохранена отработанная строка: 0x7a1004e5cc6c83f6156bb14946854b7efb206645 https:/...
+2026-04-11 05:45:02,105 - INFO - 🗑 Удалена строка: 0x7a1004e5cc6c83f6156bb14946854b7efb206645 https:/...
+2026-04-11 05:45:15,427 - INFO - 💾 Сохранение конфигурации
+2026-04-11 05:45:15,427 - INFO - ✅ Конфигурация сохранена
+2026-04-11 05:45:16,146 - INFO - 🚀 run_process ЗАПУЩЕН — начинаем обработку
+2026-04-11 05:45:20,159 - INFO - ⏹ Процесс остановлен пользователем
