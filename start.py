@@ -858,7 +858,9 @@ class AutoFollowApp:
         """Проверка даты последних 2 твитов"""
         try:
             logger.info("🔍 Проверка даты последних 2 твитов...")
+
             self.page.wait_for_selector('article[data-testid="tweet"]', timeout=18000)
+
             posts = self.page.locator('article[data-testid="tweet"]').all()[:2]
 
             if len(posts) < 2:
@@ -867,7 +869,8 @@ class AutoFollowApp:
 
             years = []
             for i, post in enumerate(posts):
-                time_elem = post.locator('time').first()
+                time_elem = post.locator('time').first
+
                 if time_elem.count() > 0:
                     try:
                         dt_attr = time_elem.get_attribute('datetime', timeout=3000)
@@ -879,6 +882,7 @@ class AutoFollowApp:
                         logger.warning(f"⚠️ Не удалось получить дату твита #{i+1}: {te}")
 
             if not years:
+                logger.warning("⚠️ Не удалось извлечь годы из твитов")
                 return False
 
             if all(y < 2025 for y in years):
